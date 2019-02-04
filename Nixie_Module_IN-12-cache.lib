@@ -181,11 +181,11 @@ X CATHODE_3 9 200 -550 197 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# conn_Conn_01x02_Male
+# Nixie_Module_IN-12-rescue_Conn_01x02_Male-conn
 #
-DEF conn_Conn_01x02_Male J 0 40 Y N 1 F N
+DEF Nixie_Module_IN-12-rescue_Conn_01x02_Male-conn J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "conn_Conn_01x02_Male" 0 -200 50 H V C CNN
+F1 "Nixie_Module_IN-12-rescue_Conn_01x02_Male-conn" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -204,11 +204,11 @@ X Pin_2 2 200 -100 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# conn_Conn_01x07_Male
+# Nixie_Module_IN-12-rescue_Conn_01x07_Male-conn
 #
-DEF conn_Conn_01x07_Male J 0 40 Y N 1 F N
+DEF Nixie_Module_IN-12-rescue_Conn_01x07_Male-conn J 0 40 Y N 1 F N
 F0 "J" 0 400 50 H V C CNN
-F1 "conn_Conn_01x07_Male" 0 -400 50 H V C CNN
+F1 "Nixie_Module_IN-12-rescue_Conn_01x07_Male-conn" 0 -400 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
